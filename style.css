@@ -7,7 +7,7 @@
 
 /* Global Styles */
 :root {
-    --cor-primaria: #43138b;
+    --cor-primaria: #c11224;
     --cor-secundaria: #2ecc71;
     --fonte-principal: 'Roboto', sans-serif;
 }
@@ -150,14 +150,14 @@ nav {
 .texto-sessao h2 {
     font-size: 1.8em;
     margin-bottom: 20px;
-    color: #333;
+    color: #000000;
     text-align: center; /* Centraliza o título da seção */
 }
 
 .texto-sessao p {
     font-size: 1.1em;
     line-height: 1.6;
-    color: #666;
+    color: #000000;
 }
 
 .imagem-sessao {
